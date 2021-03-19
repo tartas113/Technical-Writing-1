@@ -1,1 +1,0 @@
-Basic Calculation in wiki
