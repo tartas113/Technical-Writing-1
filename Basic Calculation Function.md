@@ -36,3 +36,17 @@ _**_**Please follow the steps below to perform the Multiplication**_**_
 
 ### For Example: 2 * 3 = 6
 ![](https://github.com/tartas113/Github-Wiki-Pages-Updation/blob/main/Multiplication.PNG)
+
+# 4. Division Function
+_**_**Please follow the steps below to perform the Division**_**_
+* Open the App
+* Press the number (0, 1, 2, 3, -----9)
+* Press the **Divide Button** (/)
+* Press the other number (0, 1, 2, 3, -----9)
+* Press the **Equals Button** (**=**).
+
+### **The result will be displayed on the Screen**
+
+### For Example: 6 / 2 = 3
+
+![](https://github.com/tartas113/Github-Wiki-Pages-Updation/blob/main/Division%20Function.PNG)
